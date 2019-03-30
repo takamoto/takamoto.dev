@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "http://34.85.54.169/"
 languageCode = "ja-JP"
 title = "T & T"
 # Enable comments by entering your Disqus shortname
@@ -12,6 +12,7 @@ theme = "hugo-icarus-theme"
 # Comment the themesDir option if you use this theme in production
 # themesDir = ""
 hasCJKLanguage = true
+
 
 [permalinks]
     # post = "/:year/:month/:day/:slug"
